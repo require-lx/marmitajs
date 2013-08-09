@@ -1,4 +1,5 @@
-# MarmitaJS
+# marmita.js
+![marmita.js](https://github.com/require-lx/marmitajs/blob/master/assets/marmita-termopratica-revestida-em-aco-inox-3-unidades_MLB-F-183935740_5957.png?raw=true)
 
 A platform connecting food makers, distributers and consumers should not be controlled by anyone.
 
