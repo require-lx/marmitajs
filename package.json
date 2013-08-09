@@ -1,0 +1,13 @@
+{
+  "name": "marmita",
+  "version": "0.0.0",
+  "description": "A marmita-agnostic food exchange platform",
+  "main": "index.js",
+  "bin": {
+    "marmita": "./bin/marmita.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  "license": "MIT"
+}
