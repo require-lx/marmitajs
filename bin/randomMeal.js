@@ -1,5 +1,4 @@
 var menu = require('./menu.js')
-  , inspect = require('util').inspect
 
 var randomMeal = function(){
   var meal = {
